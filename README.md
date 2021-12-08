@@ -25,7 +25,7 @@
        
 </div>
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F5DEB3&height=200&section=header&text=THANK YOU&fontSize=90&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F5DEB3&height=150&section=header&text=THANK YOU&fontSize=30"/>
 </div>
 
 
