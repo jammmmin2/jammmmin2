@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFA07A&height=300&section=header&text=Hello, I'm JungHa%20render&fontSize=90" /
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=capsule%20render&fontSize=80" />
+
 
 <div align=center>
 :purple_heart::purple_heart:
