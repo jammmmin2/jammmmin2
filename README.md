@@ -1,9 +1,8 @@
-<div align=center style="background-color:lvory"><h1>Hey~👋</h1></div>
+<div align=center style="background-color:lvory"><h1>Hello, I'm JungHa👋</h1></div>
 <div align=center>
 :purple_heart::purple_heart:
 </div>
 <div align=center> 
-        <h3>Hello, I'm JungHa</h3> <br>
          <h3>📚 Tech Stack 📚</h3>
          <p>
           <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
