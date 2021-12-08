@@ -1,4 +1,4 @@
-<div align=center><h1>Hey~👋</h1></div>
+<div align=center style="background-color:lvory"><h1>Hey~👋</h1></div>
 <div align=center>
 :purple_heart:<a href="https://www.notion.so/b17319afa9c34998b6c0250da4676537" target="_blank"><img src="https://img.shields.io/badge/포토폴리오-1877F2?style=flat-square&logo= notion&logoColor=white"/></a>:purple_heart:
 </div>
