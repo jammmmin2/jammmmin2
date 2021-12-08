@@ -24,13 +24,15 @@
         </p>
        
 </div>
-<div align=center>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F5DEB3&height=150&section=header&text=THANK YOU&fontSize=30"/>
-</div>
+
 
 
 
 <!--
+<div align=center>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F5DEB3&height=150&section=header&text=THANK YOU&fontSize=30"/>
+</div>
+
 <a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/[2. 등록하려는 이름]-[3. #을 뺀 나머지 색깔코드]?style=flat-square&logo=[4. 로고명(아이콘명)]&logoColor=white"/></a>
 
 **jammmmin2/jammmmin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
