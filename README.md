@@ -1,5 +1,5 @@
 ### Hey~ This is Myworld 👋
-<a href="https://www.notion.so/b17319afa9c34998b6c0250da4676537" target="_blank"><img src="https://img.shields.io/badge/[2. 포토폴리오]-[3. 1877F2]?style=flat-square&logo=[4. notion]&logoColor=white"/></a>
+<a href="https://www.notion.so/b17319afa9c34998b6c0250da4676537" target="_blank"><img src="https://img.shields.io/badge/[포토폴리오]-[1877F2]?style=flat-square&logo=[ notion]&logoColor=white"/></a>
 <!--
 **jammmmin2/jammmmin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
