@@ -27,8 +27,10 @@
         </p>
          
 </div>
-
+<div align=center>
 <img src="https://capsule-render.vercel.app/api?type=soft&color=F5DEB3&height=300&section=header&text=THANK YOU&fontSize=90&animation=fadeIn"/>
+</div>
+
 
 
 <!--
