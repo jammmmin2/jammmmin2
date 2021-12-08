@@ -22,13 +22,10 @@
          <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> &nbsp
          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp
         </p>
-        <p>
-         
-        </p>
-         
+       
 </div>
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F5DEB3&height=300&section=header&text=THANK YOU&fontSize=90&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F5DEB3&height=200&section=header&text=THANK YOU&fontSize=90&animation=fadeIn"/>
 </div>
 
 
