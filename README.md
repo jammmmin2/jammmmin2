@@ -4,7 +4,7 @@
 </div>
 <div align=center> 
   <h3>안녕하세요~</h3> <br>
-  <h3 font-weight=1000>SKILL</h3> <br>
+   :pushpin:<h3>SKILL</h3> :pushpin:
   <a href="file:///C:/Users/didwj/Downloads/java.svg" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo= notion&logoColor=white"/>
 </div>
 
