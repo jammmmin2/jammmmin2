@@ -1,6 +1,5 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=FFDAB9&height=200&section=header&text=HELLO%20&fontSize=80" />
-         ![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlign=70)
 </div>
 
 <div align=center>
