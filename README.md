@@ -19,10 +19,12 @@
         </p>
         <p>
          <h3>:cherries: Me :cherries:</h3>
-         <a href="https://www.notion.so/b17319afa9c34998b6c0250da4676537" target="_blank">
+         <a href="https://www.notion.so/5c066baa5b04499f9aff0f722182fb91" target="_blank">
              <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> &nbsp
          </a>
-         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp
+         <a href="https://github.com/jammmmin2" target="_blank">
+             <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp
+         </a>
         </p>
        
 </div>
