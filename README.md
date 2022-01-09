@@ -17,6 +17,7 @@
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
         </p>
+        <!--
         <p>
          <h3>:cherries: Me :cherries:</h3>
          <a href="https://www.notion.so/5c066baa5b04499f9aff0f722182fb91" target="_blank">
@@ -26,7 +27,7 @@
              <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp
          </a>
         </p>
-       
+       -->
 </div>
 
 
